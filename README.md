@@ -17,6 +17,8 @@ Calculate the sum of the following series
 
 $$sum=1+2+3+4+5+...+n$$
 
+$$\sum_{i=1}^{\infty} a_n$$
+
 Where `n` is a number input by the user.
 
 ---
