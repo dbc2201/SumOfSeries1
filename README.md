@@ -1,4 +1,4 @@
-# Area of a Triangle
+# Sum of Series 1 : Gaussian Addition
 
 ## Java Programming Course
 
